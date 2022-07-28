@@ -5,10 +5,29 @@ namespace Variables_Exercise
     internal class Program
     {
         static void Main(string[] args)
+
         {
             string dogName = "Rex";
             int dogAge = 2;
-            Console.WriteLine($"My dog's name is{dogName}, He is {dogAge} years old");
+            char ranInit = 'a';    ;
+            bool isAlive = true;
+            double ranNum = 4.6;
+            decimal ranDen = 4.5m;
+
+            dogName = "Rex";
+            dogAge = 2;
+            ranInit = 'a';
+            isAlive = true;
+            ranNum = 4.6;
+            ranDen = 4.5m;
+           
+          
+
+           
+             
+
+
+            Console.WriteLine($"My dog's name is{dogName}, He is {dogAge} years old, this is {isAlive} that he still exists. My character letter is is {ranInit}.My double is {ranNum} and my decimal is {ranDen}. This is awesome");
         }
     }
 }
