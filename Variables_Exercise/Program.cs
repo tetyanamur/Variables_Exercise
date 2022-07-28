@@ -9,7 +9,7 @@ namespace Variables_Exercise
         {
             string dogName = "Rex";
             int dogAge = 2;
-            char ranInit = 'a';    ;
+            char ranInit = 'a';    
             bool isAlive = true;
             double ranNum = 4.6;
             decimal ranDen = 4.5m;
