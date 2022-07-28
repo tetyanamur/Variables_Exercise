@@ -27,7 +27,7 @@ namespace Variables_Exercise
              
 
 
-            Console.WriteLine($"My dog's name is{dogName}, He is {dogAge} years old, this is {isAlive} that he still exists. My character letter is is {ranInit}.My double is {ranNum} and my decimal is {ranDen}. This is awesome");
+            Console.WriteLine($"My dog's name is {dogName} and he is {dogAge} years old. This is {isAlive} - he is still alive. My character letter is is {ranInit}. My double number is {ranNum} and my decimal number is {ranDen}. This is awesome.");
         }
     }
 }
