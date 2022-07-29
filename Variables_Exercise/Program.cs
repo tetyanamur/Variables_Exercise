@@ -14,12 +14,6 @@ namespace Variables_Exercise
             double ranNum = 4.6;
             decimal ranDen = 4.5m;
 
-            dogName = "Rex";
-            dogAge = 2;
-            ranInit = 'a';
-            isAlive = true;
-            ranNum = 4.6;
-            ranDen = 4.5m;
            
           
 
